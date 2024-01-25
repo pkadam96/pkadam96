@@ -46,7 +46,7 @@
 
 💪 **Favorite Quote:** "In the world of technology, change is inevitable. Embrace it, learn from it, and use it to shape your future."
 
-Let's connect and create something amazing together! 🚀
+**Let's connect and create something amazing together! 🚀**
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 
@@ -56,17 +56,13 @@ Let's connect and create something amazing together! 🚀
 ##  <h3 align="left">Connect with me:</h3> 
 <p align="left">
 
-<h3>Email :</h3> pranotikadam96@gmail.com 
+**Email :** pranotikadam96@gmail.com
 </p>
 <p align="left">
 
-<h3>LinkedIn :</h3> https://www.linkedin.com/in/pranoti-kadam-2b52a7217/
+**LinkedIn :** https://www.linkedin.com/in/pranoti-kadam-2b52a7217/
 </p>
- <!-- <p align="left"> -->
-
-<!-- Portfolio:-  https://kishordmane.github.io/ -->
-<!-- </p>  -->
-
+ 
 <br>
 
 ## <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> Languages and Tools:</h3>
