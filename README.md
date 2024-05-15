@@ -71,3 +71,19 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://clipground.com/images/html-logo-png-3.png" alt="html5" width="70" height="50"/></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://www.softorks.com/Images/css.jpg" alt="css3" width="50" height="50"/></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="javascript" width="50" height="50"/> </a>  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" alt="bootstrap" width="50" height="50"/> </a>   <a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"> <img src="https://logonoid.com/images/sass-logo.png" alt="sass" width="60" height="50"/> </a>   <a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer"> <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/275559/images/6637674/tailwind.JPG" alt="tailwind" width="50" height="50"/></a>   <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" alt="react" width="55" height="50"/> </a>   <a href="https://docs.github.com/en" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" alt="github" width="60" height="50"/> </a>  <a href="https://code.visualstudio.com/Docs" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vs code" width="50" height="50"/> </a>   <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-768x480.png" alt="mongoDB" width="100" height="60"/> </a>   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://geekhacker.ru/wp-content/uploads/2021/03/sql_logo.png" alt="sql" width="90" height="50"/> </a>  <a href="https://docs.oracle.com/en/database/oracle/index.html" target="_blank" rel="noreferrer"> <img src="https://logos-marcas.com/wp-content/uploads/2020/09/Oracle-Logo.png" alt="oracle" width="120" height="90"/> </a> 
 </p>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pkadam96&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pkadam96&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pkadam96&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=pkadam96&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pkadam96&icon=2&color=0)](https://visitcount.itsvg.in)
+
